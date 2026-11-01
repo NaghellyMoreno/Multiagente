@@ -1,0 +1,16 @@
+[
+  {
+    "id": "F001",
+    "category": "security",
+    "priority": 1,
+    "description": "Una persona con rol de administrador inicia sesión en su panel y una persona sin ese rol no puede entrar.",
+    "stories": ["HU-001"],
+    "steps": [
+      "Abrir el panel sin sesión y verificar que pide iniciar sesión",
+      "Iniciar sesión con credenciales de administrador y verificar que se muestra el panel",
+      "Iniciar sesión con otro rol y verificar que la API responde 403 al pedir datos del panel",
+      "Ingresar una contraseña errónea varias veces y verificar que se aplica el límite de intentos"
+    ],
+    "passes": false
+  }
+]
