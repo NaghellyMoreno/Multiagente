@@ -12,7 +12,7 @@ Reglas propias de este proyecto para cada agente. Complementan los agentes y ski
 <!-- Verificaciones adicionales antes de aprobar. -->
 
 ## developer
-<!-- Datos de prueba, zona horaria y convenciones de implementación propias. -->
+<!-- Datos de prueba, zona horaria y convenciones de implementación propias. Para el modo paralelo: cómo instalar dependencias en una copia nueva y cómo evitar puertos y bases de datos fijos. -->
 
 ## qa-evaluator
 <!-- Pruebas obligatorias propias del dominio. -->

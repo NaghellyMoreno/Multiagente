@@ -5,6 +5,7 @@
     "priority": 1,
     "description": "Una persona con rol de administrador inicia sesión en su panel y una persona sin ese rol no puede entrar.",
     "stories": ["HU-001"],
+    "depends_on": [],
     "steps": [
       "Abrir el panel sin sesión y verificar que pide iniciar sesión",
       "Iniciar sesión con credenciales de administrador y verificar que se muestra el panel",

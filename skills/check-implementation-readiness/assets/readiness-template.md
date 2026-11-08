@@ -1,6 +1,7 @@
 # Revisión de preparación para la implementación
 
 - **Fecha:** AAAA-MM-DD
+- **Iteración:** n (máximo 3)
 - **Veredicto:** PASS | CONCERNS | FAIL
 
 ## Resumen
